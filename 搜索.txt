@@ -1,0 +1,21 @@
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?ind=210500&&SearchModel=0&&ref=jobsearch&&KW=%E4%B8%89%E6%98%9F&&OB=0&&ST=1&&PageSize=30&&PageNumber=1
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?ind=210500;200300;200302;201400;201300;300200;300300&&SearchModel=0&&ref=jobsearch&&KW=%E4%B8%89%E6%98%9F&&OB=0&&ST=1&&PageSize=30&&PageNumber=1
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?schJT=4010200&&subJT=006;008;011;009;007;010;012;451;452;018&&ind=210500;200300;200302;201400;201300;300200;300300&&SearchModel=0&&ref=jobsearch&&KW=%E4%B8%89%E6%98%9F&&OB=0&&ST=1&&PageSize=30&&PageNumber=1
+
+
+
+
+首页：
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?SearchModel=1&&ref=jobsearch&&ST=1&&OB=0&&KW=%E4%B8%89%E6%98%9F
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?SearchModel=1&&ref=jobsearch&&ST=1&&OB=0&&KW=%E9%94%80%E5%94%AE
+搜索列表页---搜工作
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?SearchModel=0&&ref=jobsearch&&KW=%E9%94%80%E5%94%AE&&OB=0&&ST=1&&PageSize=30&&PageNumber=1
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?SearchModel=0&&ref=jobsearch&&KW=%E9%94%80%E5%94%AE&&OB=0&&ST=1&&PageSize=30&&PageNumber=1
+头部  全职
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?KW=%E4%BC%9A%E8%AE%A1&&OB=0&&ST=1   
+头部  找实习
+http://cdc.zhaopin.com/FindPractice/PracticeSearch/SearchResult/?KW=%E4%B8%89%E6%98%9F&&OB=0&&ST=1
+http://cdc.zhaopin.com/FindFullTime/FullTimeSearch/SearchResult/?KW=%E9%94%80%E5%94%AE&&OB=0&&ST=1
+
+
+ 	
